@@ -1,4 +1,4 @@
-# Sentence Reconstruction
+### Sentence Reconstruction
 The purpose of this project is to take in input a sequence of words corresponding to a random permutation of a given english sentence, and reconstruct the original sentence.
 
 The otuput can be either produced in a single shot, or through an iterative (autoregressive) loop generating a single token at a time.
